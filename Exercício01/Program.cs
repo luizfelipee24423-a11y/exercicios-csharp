@@ -42,15 +42,6 @@ class Program
             }
         }
 
-        /*
-        Leia uma matriz 3x3 de inteiros.
-
-        Depois:
-
-        ✔ conte quantos números pares existem na matriz
-        ✔ encontre o maior valor da matriz
-        ✔ informe em qual linha e coluna esse maior valor apareceu
-        */
 
         int pares = 0;
         int impares = 0;
